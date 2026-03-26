@@ -1,0 +1,19 @@
+Find the latest price and key features of iPhone 15 on Amazon
+
+Search for software engineering jobs in Bangalore on LinkedIn and list top 5 with company names
+
+Extract the names and ratings of top 5 restaurants near me from Google Maps
+
+Find the cheapest flight from Bangalore to Delhi for next week
+
+Get details of top 3 trending laptops under ₹70000 from Flipkart
+
+Summarize the latest news about Artificial Intelligence from Google News
+
+Extract top 5 contributors from the Stagehand GitHub repository
+
+Find upcoming IPL matches and their schedule
+
+Compare prices of Samsung Galaxy S23 on Amazon and Flipkart
+
+Open YouTube and find the top 3 videos on “Python for beginners”
